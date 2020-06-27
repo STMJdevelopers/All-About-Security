@@ -3,9 +3,9 @@
 ## Table of Contents
 
 * [SQL-Injection](#sql-injection)
-	* [Apa itu SQL-Injection ?](#apa-itu-sql-injection)
+	* [Apa itu SQL-Injection ?](#apa-itu-sql-injection-)
 	* [Contoh SQL Injection](#contoh-sql-injection)
-	* [Bagaimana cara mencegah SQLi ?](#bagaimana-cara-mencegah-sqli)
+	* [Bagaimana cara mencegah SQLi ?](#bagaimana-cara-mencegah-sqli-)
 	* [Tambahan](#tambahan)
 	* [Kontribusi](#kontribusi)
 
